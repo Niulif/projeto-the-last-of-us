@@ -3,7 +3,7 @@
   <p>Página que apresenta carrossel com imagens da série dramática pós-apocalíptica americana The Last Of Us. 
   <br>Neste projeto básico utilizei HTML, CSS e JavaScript</p>
   <br>
-  <h2><a href="https://niulif.github.io/projeto-the-last-of-us/">Projeto The Last Of Us</a></h2>
+  <h2>Link da página :point_right: <a href="https://niulif.github.io/projeto-the-last-of-us/">Projeto The Last Of Us</a></h2>
   <br>
   <br>
   <br>
